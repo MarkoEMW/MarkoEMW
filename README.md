@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarkoEMW
 - 👀 I’m interested in Gaming, Mangas, Hobby Programming, CTF's
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Computer Science -> [C, C++, C#, Python(a little bit)]
 - 💞️ I’m looking to collaborate on Projects that could boost my knowledge
 - 📫 How to reach me on Discord by EnderMasterWin#EMW
 - 😄 Pronouns: He/Him
